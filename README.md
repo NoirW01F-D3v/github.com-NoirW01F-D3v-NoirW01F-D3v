@@ -1,6 +1,12 @@
 # github.com-NoirW01F-D3v-NoirW01F-D3v
 whoami
 
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <rect width="300" height="100" fill="black"/>
+  <text x="20" y="60" fill="lime" font-size="32">Hello GitHub</text>
+</svg>
+
+
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
 <style>
     .bg { fill:#000; }
