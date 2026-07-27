@@ -1,0 +1,91 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bg" x2="0" y2="1">
+    <stop stop-color="#050816"/>
+    <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- Background -->
+<rect width="900" height="300" fill="url(#bg)"/>
+
+<!-- Stars -->
+<g fill="#ffffff">
+  <circle cx="80" cy="40" r="2"/>
+  <circle cx="160" cy="90" r="1"/>
+  <circle cx="300" cy="50" r="2"/>
+  <circle cx="500" cy="80" r="1"/>
+  <circle cx="720" cy="40" r="2"/>
+  <circle cx="820" cy="120" r="1"/>
+</g>
+
+<!-- Terminal window -->
+<rect x="80" y="45" width="740" height="190"
+rx="12"
+fill="#020202"
+stroke="#00ff88"
+stroke-width="2"
+filter="url(#glow)"/>
+
+<!-- Terminal dots -->
+<circle cx="110" cy="75" r="7" fill="#ff5555"/>
+<circle cx="135" cy="75" r="7" fill="#ffaa00"/>
+<circle cx="160" cy="75" r="7" fill="#00ff88"/>
+
+<!-- Terminal text -->
+<g font-family="monospace" font-size="20" fill="#00ff88">
+
+<text x="110" y="120">
+&gt; booting developer_system...
+</text>
+
+<text x="110" y="155">
+&gt; loading skills: code | linux | security
+</text>
+
+<text x="110" y="190">
+&gt; status: ONLINE_
+</text>
+
+</g>
+
+<!-- Cursor blink -->
+<rect x="390" y="172" width="12" height="22" fill="#00ff88">
+  <animate attributeName="opacity"
+  values="1;0;1"
+  dur="1s"
+  repeatCount="indefinite"/>
+</rect>
+
+<!-- Rocket -->
+<g transform="translate(450 250)">
+  <path d="M0 30 Q25 -50 50 30"
+  fill="#00ffff"
+  stroke="#00ff88"
+  stroke-width="3"/>
+
+  <circle cx="25" cy="-5" r="8" fill="#111"/>
+
+  <path d="M15 30 L25 60 L35 30"
+  fill="#ff6600"/>
+</g>
+
+<!-- Title -->
+<text x="450" y="285"
+text-anchor="middle"
+font-family="monospace"
+font-size="24"
+fill="#ffffff">
+CYBER // SPACE TERMINAL
+</text>
+
+</svg>
