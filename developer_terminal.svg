@@ -1,0 +1,99 @@
+<svg width="900" height="650" viewBox="0 0 900 650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="screenGlow" x2="0" y2="1">
+      <stop stop-color="#062b1f"/>
+      <stop offset="1" stop-color="#00100c"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#ffffff" opacity=".04"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="650" fill="#080b12"/>
+
+  <!-- Computer body -->
+  <rect x="150" y="80" width="600" height="430" rx="35"
+        fill="#777" stroke="#aaa" stroke-width="8"/>
+
+  <!-- CRT Screen -->
+  <rect x="210" y="140" width="480" height="260" rx="18"
+        fill="url(#screenGlow)" stroke="#222" stroke-width="10"/>
+
+  <rect x="210" y="140" width="480" height="260"
+        rx="18" fill="url(#scanlines)"/>
+
+  <!-- Boot text -->
+  <g fill="#38ff9c" font-family="monospace" filter="url(#glow)">
+    <text x="250" y="190" font-size="25">RETRO DEV BIOS v2.7</text>
+    <text x="250" y="225" font-size="20">Booting DeveloperOS...</text>
+    <text x="250" y="260" font-size="18">[██████████] 100%</text>
+
+    <text x="250" y="300" font-size="17">
+      Loading: Skills_Module
+    </text>
+
+    <text x="250" y="330" font-size="16">
+      &gt; Full Stack Development
+    </text>
+    <text x="250" y="355" font-size="16">
+      &gt; Cyber Security Lab
+    </text>
+    <text x="250" y="380" font-size="16">
+      &gt; Problem Solving Engine
+    </text>
+  </g>
+
+  <!-- Keyboard -->
+  <rect x="270" y="430" width="360" height="70" rx="12"
+        fill="#444" stroke="#222" stroke-width="5"/>
+
+  <g fill="#999">
+    <rect x="295" y="450" width="35" height="18"/>
+    <rect x="340" y="450" width="35" height="18"/>
+    <rect x="385" y="450" width="35" height="18"/>
+    <rect x="430" y="450" width="35" height="18"/>
+    <rect x="475" y="450" width="35" height="18"/>
+    <rect x="520" y="450" width="35" height="18"/>
+    <rect x="565" y="450" width="35" height="18"/>
+
+    <rect x="330" y="480" width="240" height="10"/>
+  </g>
+
+  <!-- Status lights -->
+  <circle cx="280" cy="115" r="8" fill="#39ff14"/>
+  <circle cx="310" cy="115" r="8" fill="#ffcc00"/>
+  <circle cx="340" cy="115" r="8" fill="#ff3355"/>
+
+  <!-- Floating skill cards -->
+  <g font-family="monospace" font-size="18">
+    <rect x="45" y="180" width="130" height="120" rx="15"
+          fill="#101827" stroke="#38ff9c"/>
+    <text x="65" y="215" fill="#38ff9c">LANGS</text>
+    <text x="65" y="245" fill="white">JS</text>
+    <text x="65" y="270" fill="white">Python</text>
+    <text x="65" y="295" fill="white">SQL</text>
+
+    <rect x="725" y="180" width="140" height="150" rx="15"
+          fill="#101827" stroke="#ff3355"/>
+    <text x="745" y="215" fill="#ff3355">SEC</text>
+    <text x="745" y="245" fill="white">Linux</text>
+    <text x="745" y="270" fill="white">Networks</text>
+    <text x="745" y="295" fill="white">Defense</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="450" y="590" text-anchor="middle"
+        fill="#38ff9c" font-family="monospace" font-size="24">
+    &lt; DEVELOPER PROFILE LOADED /&gt;
+  </text>
+</svg>
