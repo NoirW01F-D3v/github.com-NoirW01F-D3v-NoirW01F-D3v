@@ -7,7 +7,7 @@
 
 <img src="banner.svg" width="100%" alt="NoirW01F-D3v Banner">
 
-# 👋 Hey, I'm NoirW01F-D3v
+# 👋 NoirW01F-D3v
 
 ```text
 > boot sequence initiated...
@@ -17,7 +17,7 @@
 > access granted.
 ```
 
-### Android Developer • Linux Enthusiast • Open Source Contributor
+### Android Developer • Linux Enthusiast • Open Source Contributor • CS. Studies. 
 
 *"Code. Learn. Improve. Repeat."*
 
@@ -33,10 +33,10 @@ $ whoami
 Name        :: NoirW01F-D3v
 Focus       :: Android Development
 OS          :: Linux
-Languages   :: Java, Python, C, Bash, SQL
+Languages   :: Java, Python, C, Bash, SQL, C
 Interests   :: Android Internals, Automation,
                System Programming, Open Source
-Status      :: Always Learning
+Status      :: Always Busy...
 ```
 
 ---
@@ -75,19 +75,6 @@ Status      :: Always Learning
 - Terminal
 - Automation
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -99,21 +86,9 @@ Status      :: Always Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
 
 ## 😂 Developer Joke
 
@@ -133,17 +108,7 @@ Status      :: Always Learning
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-> Enable the Platane/snk GitHub Action to generate this animation.
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
 
 ---
 
@@ -151,7 +116,7 @@ Status      :: Always Learning
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=NoirW01F-D3v/NoirW01F-D3v&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -160,8 +125,9 @@ Status      :: Always Learning
 ## 🎯 Current Goals
 
 ```text
-□ Build useful Android tools
-□ Contribute to Open Source
+□ Building open-source Android tools
+□ A Special Launcher - Next Lvl
+Aug 15 roll out - Aug 1st Beta 🥐 
 □ Learn more low-level Android internals
 □ Improve Linux automation
 □ Continue growing as a developer
@@ -178,10 +144,11 @@ Status      :: Always Learning
 ██║╚██╗██║██║   ██║██║██╔══██╗
 ██║ ╚████║╚██████╔╝██║██║  ██║
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-```
+```W01F
 
 **Thanks for visiting.**
 
-⭐ Star a repository if you find it useful.
 
+⭐ Star a repository if you find it useful.
+Future Software In Progress 😁 
 </div>
