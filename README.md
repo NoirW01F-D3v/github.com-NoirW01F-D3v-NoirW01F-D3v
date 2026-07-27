@@ -11,12 +11,10 @@ ___________________________________
 
 ---
 
-## 💬 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-____________________________________
+<p>
+__________________________
 Languages
 • Java
 • Python
@@ -36,5 +34,10 @@ Interests
 • Android Development
 • Android Modding
 
-____________________________________
+_____________________________
 
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
