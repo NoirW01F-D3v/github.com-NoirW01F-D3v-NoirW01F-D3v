@@ -6,8 +6,6 @@ whoami
 </p>
 
 
-  <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-
   
 
   
