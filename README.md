@@ -1,133 +1,163 @@
 <div align="center">
 
-<svg width="900" height="500" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="550" viewBox="0 0 900 550"
+xmlns="http://www.w3.org/2000/svg">
 
-<rect width="900" height="500" fill="#050505" rx="18"/>
+<rect width="900" height="550" fill="#000000"/>
 
-<!-- Border pulse -->
-<rect x="15" y="15" width="870" height="470"
-fill="none"
-stroke="#00ff66"
-stroke-width="2"
-rx="18">
+<!-- MATRIX RAIN -->
 
-<animate attributeName="stroke"
-values="#00ff66;#00ccff;#ff3355;#00ff66"
+<g fill="#00ff66" font-family="monospace" font-size="22">
+
+<text x="40" y="0">
+010101
+<animate attributeName="y"
+from="-50" to="600"
+dur="4s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="130" y="0">
+101001
+<animate attributeName="y"
+from="-100" to="650"
 dur="5s"
 repeatCount="indefinite"/>
-</rect>
+</text>
+
+<text x="230" y="0">
+110010
+<animate attributeName="y"
+from="-200" to="600"
+dur="3.5s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="330" y="0">
+001101
+<animate attributeName="y"
+from="-80" to="700"
+dur="4.5s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="720" y="0">
+101010
+<animate attributeName="y"
+from="-150" to="650"
+dur="4s"
+repeatCount="indefinite"/>
+</text>
+
+<text x="820" y="0">
+011001
+<animate attributeName="y"
+from="-50" to="700"
+dur="5s"
+repeatCount="indefinite"/>
+</text>
+
+</g>
 
 
-<!-- Header -->
+<!-- DARK PANEL -->
 
-<text x="55" y="80"
-fill="#ffd700"
-font-size="36"
-font-family="monospace">
-██ SCR1 // DEVELOPER CORE ██
+<rect x="80" y="90"
+width="740"
+height="360"
+fill="#020202"
+stroke="#00ff66"
+stroke-width="2"
+opacity="0.95"/>
+
+
+<!-- TITLE -->
+
+<text x="130" y="160"
+fill="#00ff66"
+font-family="monospace"
+font-size="40">
+
+SCR1 // MATRIX ONLINE
+
 </text>
 
 
-<text x="55" y="120"
+<text x="130" y="205"
 fill="#00ccff"
-font-size="18"
-font-family="monospace">
-SYSTEM STATUS: ONLINE
+font-family="monospace"
+font-size="18">
+
+INITIALIZING DIGITAL CONSCIOUSNESS...
+
 </text>
 
 
-<!-- Animated terminal lines -->
+<!-- BOOT -->
 
-<text x="55" y="175"
+<text x="130" y="260"
 fill="#00ff66"
-font-size="22"
-font-family="monospace">
-&gt; booting developer.mode
-<animate attributeName="opacity"
-values="0;1;1"
-dur="2s"
-repeatCount="1"/>
+font-family="monospace"
+font-size="20">
+
+&gt; Loading developer.core .... OK
+
 </text>
 
 
-<text x="55" y="220"
+<text x="130" y="300"
 fill="#00ff66"
-font-size="22"
-font-family="monospace">
-&gt; loading Java ............ OK
-<animate attributeName="opacity"
-values="0;1"
-dur="2s"
-begin="1s"/>
+font-family="monospace"
+font-size="20">
+
+&gt; Compiling imagination .... OK
+
 </text>
 
 
-<text x="55" y="265"
-fill="#00ccff"
-font-size="22"
-font-family="monospace">
-&gt; loading Kotlin .......... OK
-<animate attributeName="opacity"
-values="0;1"
-dur="2s"
-begin="2s"/>
-</text>
-
-
-<text x="55" y="310"
-fill="#00ff66"
-font-size="22"
-font-family="monospace">
-&gt; initializing Android SDK/NDK
-<animate attributeName="opacity"
-values="0;1"
-dur="2s"
-begin="3s"/>
-</text>
-
-
-<text x="55" y="355"
+<text x="130" y="340"
 fill="#ffd700"
-font-size="22"
-font-family="monospace">
-&gt; Python + JavaScript modules READY
-<animate attributeName="opacity"
-values="0;1"
-dur="2s"
-begin="4s"/>
+font-family="monospace"
+font-size="20">
+
+&gt; Unlocking creator mode ....
+
 </text>
 
 
-<!-- Bio reveal -->
+<text x="130" y="390"
+fill="#ff3366"
+font-family="monospace"
+font-size="28">
 
-<text x="55" y="415"
-fill="#ff3355"
-font-size="26"
-font-family="monospace">
-ACCESS: CREATOR MODE
+ACCESS GRANTED
+
 </text>
 
 
-<text x="55" y="455"
+<text x="130" y="430"
 fill="#00ff66"
-font-size="20"
-font-family="monospace">
-Building the future one commit at a time.
+font-family="monospace"
+font-size="22">
+
+Welcome, Code Architect_
+
 </text>
 
 
-<!-- Blinking cursor -->
+<!-- CURSOR -->
 
-<text x="55" y="480"
-fill="#00ff66"
-font-size="22"
-font-family="monospace">
-_
+<rect x="430" y="412"
+width="12"
+height="25"
+fill="#00ff66">
+
 <animate attributeName="opacity"
 values="1;0;1"
 dur="1s"
 repeatCount="indefinite"/>
-</text>
+
+</rect>
 
 
 </svg>
