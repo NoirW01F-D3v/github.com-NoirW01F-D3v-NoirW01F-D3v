@@ -3,7 +3,20 @@
 </p>
 
 ___________________________________
+## 😂 Random Dev Joke
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+____________________________________
 Languages
 • Java
 • Python
