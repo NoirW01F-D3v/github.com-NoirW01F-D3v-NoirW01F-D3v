@@ -1,1 +1,1 @@
-<img src="./developer_terminal.svg" alt="Developer Terminal" width="900">
+![Cyber Snake](https://raw.githubusercontent.com/noir_W01F/noir_W01F/main/assets/cyber-snake.svg)
