@@ -10,14 +10,18 @@
 # 👋 NoirW01F-D3v
 
 ```text
+> Loaded... 
 > boot sequence initiated...
 > loading android toolchain...
 > mounting linux filesystem...
 > compiling...
-> access granted.
+> Access granted.
 ```
+I build most of my apps in Termux terminal 
+gradlew and the incorrect architecture 🤓🤣 
 
-### Android Developer • Linux Enthusiast • Open Source Contributor • CS. Studies. 
+
+### Android Developer • Linux Enthusiast • Open Source Contributor • C.S. Open Studies. 
 
 *"Code. Learn. Improve. Repeat."*
 
@@ -74,15 +78,9 @@ Status      :: Always Busy...
 - Git
 - Terminal
 - Automation
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+- Gradlew
+- Sdk
+- Ndk
 
 <div align="center">
 
@@ -126,11 +124,10 @@ Status      :: Always Busy...
 
 ```text
 □ Building open-source Android tools
-□ A Special Launcher - Next Lvl
-Aug 15 roll out - Aug 1st Beta 🥐 
-□ Learn more low-level Android internals
-□ Improve Linux automation
-□ Continue growing as a developer
+□ A Special Launcher - 👀
+□ Learning more Android internals
+□ Improving Linux automation
+□ Continue growing as a developer, programmer and more.... 
 ```
 
 ---
