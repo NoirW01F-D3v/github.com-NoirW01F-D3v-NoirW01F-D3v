@@ -9,15 +9,15 @@ whoami
   
 
   
- • Android-Developer • Open-Source • Cyber-Security 
+ • Android-Developer •  
 
 _________________________________________
 
-Current Project
- Amitob Launcher - The all in one Launcher 
-with less tracking and more security 
-comes with Ayobi a built in AI security analyst.
-launcher companion
+Current Projects 
++ 
+ YinD Launcher 
+ Nunscrib
+ etc... 
 
 -----------------------------------------
 Feature list. 
