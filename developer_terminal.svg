@@ -1,54 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 256 256"
-  width="256"
-  height="256"
-  fill="none">
+  viewBox="0 0 512 512"
+  width="512"
+  height="512">
 
-  <title>Developer API Icon</title>
-  <desc>A code bracket icon with a connected API node symbol</desc>
+  <title>Cyber Snake Developer Icon</title>
+  <desc>A futuristic neon snake made for developer branding</desc>
 
   <!-- Background -->
-  <rect width="256" height="256" rx="48" fill="#111827"/>
+  <rect width="512" height="512" rx="96" fill="#050816"/>
 
-  <!-- Code brackets -->
+  <!-- Glow filter -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="snakeGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="45%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Snake body glow -->
   <path
-    d="M78 72L38 112L78 152"
-    stroke="#60A5FA"
-    stroke-width="14"
+    d="M130 330
+       C90 270 130 180 220 190
+       C310 200 390 140 400 220
+       C410 300 320 330 250 300
+       C180 270 160 390 270 390
+       C350 390 390 340 410 300"
+    fill="none"
+    stroke="#22c55e"
+    stroke-width="34"
     stroke-linecap="round"
-    stroke-linejoin="round"/>
+    filter="url(#glow)"
+    opacity="0.5"/>
 
+  <!-- Main snake -->
   <path
-    d="M178 72L218 112L178 152"
-    stroke="#60A5FA"
-    stroke-width="14"
-    stroke-linecap="round"
-    stroke-linejoin="round"/>
-
-  <!-- Slash -->
-  <path
-    d="M146 58L110 166"
-    stroke="#F9FAFB"
-    stroke-width="12"
+    d="M130 330
+       C90 270 130 180 220 190
+       C310 200 390 140 400 220
+       C410 300 320 330 250 300
+       C180 270 160 390 270 390
+       C350 390 390 340 410 300"
+    fill="none"
+    stroke="url(#snakeGradient)"
+    stroke-width="28"
     stroke-linecap="round"/>
 
-  <!-- API connection nodes -->
-  <circle cx="128" cy="112" r="22" fill="#10B981"/>
-
-  <circle cx="128" cy="112" r="8" fill="#111827"/>
-
+  <!-- Snake head -->
   <path
-    d="M128 90V70M128 134V154M106 112H86M150 112H170"
-    stroke="#10B981"
-    stroke-width="8"
+    d="M395 205
+       C445 180 475 210 450 255
+       C430 290 380 270 390 235Z"
+    fill="#10b981"
+    stroke="#0f172a"
+    stroke-width="8"/>
+
+  <!-- Eyes -->
+  <circle cx="430" cy="220" r="8" fill="#f8fafc"/>
+  <circle cx="435" cy="220" r="3" fill="#020617"/>
+
+  <!-- Forked tongue -->
+  <path
+    d="M450 260L480 250M450 260L478 275"
+    stroke="#ef4444"
+    stroke-width="6"
     stroke-linecap="round"/>
 
-  <!-- Small node points -->
-  <circle cx="128" cy="70" r="6" fill="#10B981"/>
-  <circle cx="128" cy="154" r="6" fill="#10B981"/>
-  <circle cx="86" cy="112" r="6" fill="#10B981"/>
-  <circle cx="170" cy="112" r="6" fill="#10B981"/>
+  <!-- Code symbols -->
+  <text
+    x="110"
+    y="120"
+    fill="#38bdf8"
+    font-size="52"
+    font-family="monospace"
+    opacity="0.9">
+    &lt;/&gt;
+  </text>
+
+  <!-- Circuit nodes -->
+  <circle cx="100" cy="410" r="10" fill="#8b5cf6"/>
+  <circle cx="140" cy="410" r="10" fill="#8b5cf6"/>
+  <circle cx="180" cy="410" r="10" fill="#8b5cf6"/>
+
+  <path
+    d="M100 410H180"
+    stroke="#8b5cf6"
+    stroke-width="5"/>
 
 </svg>
