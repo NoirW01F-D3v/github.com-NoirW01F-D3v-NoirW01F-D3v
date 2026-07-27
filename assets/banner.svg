@@ -37,19 +37,19 @@ stroke-width="2"
 filter="url(#glow)"/>
 
 <!-- Terminal dots -->
-<circle cx="110" cy="75" r="7" fill="#ff5555"/>
-<circle cx="135" cy="75" r="7" fill="#ffaa00"/>
-<circle cx="160" cy="75" r="7" fill="#00ff88"/>
+<circle cx="110" cy="75" r="7" fill="#f2525"/>
+<circle cx="135" cy="75" r="7" fill="#fBBa00"/>
+<circle cx="160" cy="75" r="7" fill="#22ff55"/>
 
 <!-- Terminal text -->
 <g font-family="monospace" font-size="20" fill="#00ff88">
 
 <text x="110" y="120">
-&gt; booting developer_system...
+&gt; Booting GitHub Read.Me 
 </text>
 
 <text x="110" y="155">
-&gt; loading skills: code | linux | security
+&gt; loading skills: Android Development | Linux && SQL, Java, Py, etc.... | Studying Cyber-Security
 </text>
 
 <text x="110" y="190">
@@ -66,18 +66,6 @@ filter="url(#glow)"/>
   repeatCount="indefinite"/>
 </rect>
 
-<!-- Rocket -->
-<g transform="translate(450 250)">
-  <path d="M0 30 Q25 -50 50 30"
-  fill="#00ffff"
-  stroke="#00ff88"
-  stroke-width="3"/>
-
-  <circle cx="25" cy="-5" r="8" fill="#111"/>
-
-  <path d="M15 30 L25 60 L35 30"
-  fill="#ff6600"/>
-</g>
 
 <!-- Title -->
 <text x="450" y="285"
