@@ -8,7 +8,17 @@ whoami
   
 
   
-        Builder • Android Developer • Open Source
+        Programmer • Android Developer • Open Source • Cyber Security 
+
+
+Current Project
+ AYAZ Launcher - The all in one Launcher 
+with less tracking and more security 
+comes with Ayobi a built in AI security analyst.
+project will be completed Aug 15th
+
+Feature list. 
+
   </text>
 
   <text x="60"
