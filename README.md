@@ -10,13 +10,15 @@ whoami
   
  • Android-Developer • Open-Source • Cyber-Security 
 
+_________________________________________
 
 Current Project
- AYAZ Launcher - The all in one Launcher 
+ Amitob Launcher - The all in one Launcher 
 with less tracking and more security 
 comes with Ayobi a built in AI security analyst.
-project will be completed Aug 15th
+launcher companion
 
+-----------------------------------------
 Feature list. 
 
   </text>
