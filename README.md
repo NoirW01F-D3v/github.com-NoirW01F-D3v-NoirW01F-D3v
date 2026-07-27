@@ -1,1 +1,1 @@
-<img src="./developer-banner.svg" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
