@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="NoirW01F-D3v Banner">
-
 # 👋 NoirW01F-D3v
 
 ```text
