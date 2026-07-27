@@ -23,7 +23,7 @@ gradlew and the incorrect architecture 🤓🤣
 
 ### Android Developer • Linux Enthusiast • Open Source Contributor • C.S. Open Studies. 
 
-*"Code. Learn. Improve. Repeat."*
+*"We | Code"*
 
 </div>
 
