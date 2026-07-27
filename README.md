@@ -105,19 +105,6 @@ Status      :: Always Busy...
 </div>
 
 
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=NoirW01F-D3v/NoirW01F-D3v&label=Visitors&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 ```text
