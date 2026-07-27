@@ -24,13 +24,13 @@ gradle and with the incorrect architecture 🤓🤣
 ```bash
 $ whoami
 
-Name        :: NoirW01F-D3v
-Focus       :: Android Development
-OS          :: Linux
-Languages   :: Java, Python, C, Bash, SQL, C
-Interests   :: Android Internals, Automation,
+Name      :: NoirW01F-D3v
+Focus     :: Android Development
+OS        :: Linux
+Languages :: Java, Python, C, Bash, SQL, C
+Interests :: Android Internals, Automation,
                System Programming, Open Source
-Status      :: Always Busy...
+Status    :: Always Busy...
 ```
 
 
