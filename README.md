@@ -1,1 +1,1 @@
-read me
+💻 Android Developer | Java • Kotlin • Python • JavaScript | SDK • NDK • Gradle | Building the future one commit at a time. 
