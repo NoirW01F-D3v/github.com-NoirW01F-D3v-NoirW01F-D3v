@@ -8,7 +8,7 @@ whoami
   
 
   
-        Programmer • Android Developer • Open Source • Cyber Security 
+ • Android-Developer • Open-Source • Cyber-Security 
 
 
 Current Project
