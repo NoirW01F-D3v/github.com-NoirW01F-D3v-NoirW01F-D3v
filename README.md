@@ -2,15 +2,12 @@
   <img src="assets/bannerx.svg" />
 </p>
 
-___________________________________
+_________________________
 ## 😂 Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
-
----
-
 
 </p>
 <p>
