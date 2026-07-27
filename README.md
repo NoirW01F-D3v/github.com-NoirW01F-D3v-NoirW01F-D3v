@@ -8,15 +8,14 @@
 # 👋 NoirW01F-D3v
 
 
-I build most of my apps in Termux terminal 
-gradlew and the incorrect architecture 🤓🤣 
+Building most of my apps in Termux terminal 
+gradle and with the incorrect architecture 🤓🤣 
 
 
-### Android Developer • Linux Enthusiast • Open Source Contributor • C.S. Open Studies. 
+### Android Developer • Linux Enthusiast • Open For Hire ### 
 
-*"I | Code"*
+*""*
 
-</div>
 
 ---
 
@@ -33,6 +32,15 @@ Interests   :: Android Internals, Automation,
                System Programming, Open Source
 Status      :: Always Busy...
 ```
+
+
+## 💬 Random Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
+
+</div>
 
 ---
 
@@ -89,13 +97,6 @@ Status      :: Always Busy...
 
 ---
 
-## 💬 Random Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
-
-</div>
 
 
 ## 🎯 Current Goals
