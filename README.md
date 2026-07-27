@@ -1,6 +1,102 @@
 # github.com-NoirW01F-D3v-NoirW01F-D3v
 whoami
 
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+<style>
+    .bg { fill:#000; }
+    .rain {
+        font: 22px monospace;
+        fill:#00ff66;
+        text-shadow:0 0 6px #00ff66;
+    }
+
+    .c1 { animation: fall 6s linear infinite; }
+    .c2 { animation: fall 8s linear infinite; animation-delay:-2s; }
+    .c3 { animation: fall 5s linear infinite; animation-delay:-1s; }
+    .c4 { animation: fall 7s linear infinite; animation-delay:-3s; }
+    .c5 { animation: fall 9s linear infinite; animation-delay:-4s; }
+
+    @keyframes fall {
+        from { transform:translateY(-340px); }
+        to   { transform:translateY(340px); }
+    }
+</style>
+
+<rect class="bg" width="100%" height="100%"/>
+
+<g class="rain c1" transform="translate(60,0)">
+<text y="0">Ψ</text>
+<text y="24">Λ</text>
+<text y="48">∞</text>
+<text y="72">⟡</text>
+<text y="96">∴</text>
+<text y="120">ア</text>
+<text y="144">ホ</text>
+<text y="168">Δ</text>
+<text y="192">╬</text>
+<text y="216">Ω</text>
+<text y="240">✶</text>
+</g>
+
+<g class="rain c2" transform="translate(180,0)">
+<text y="0">∑</text>
+<text y="24">β</text>
+<text y="48">⧉</text>
+<text y="72">ψ</text>
+<text y="96">⌘</text>
+<text y="120">カ</text>
+<text y="144">ネ</text>
+<text y="168">≠</text>
+<text y="192">◉</text>
+<text y="216">⊕</text>
+<text y="240">Ξ</text>
+</g>
+
+<g class="rain c3" transform="translate(320,0)">
+<text y="0">╳</text>
+<text y="24">⊗</text>
+<text y="48">λ</text>
+<text y="72">φ</text>
+<text y="96">∫</text>
+<text y="120">エ</text>
+<text y="144">モ</text>
+<text y="168">☍</text>
+<text y="192">Γ</text>
+<text y="216">⟢</text>
+<text y="240">✦</text>
+</g>
+
+<g class="rain c4" transform="translate(500,0)">
+<text y="0">Ω</text>
+<text y="24">∇</text>
+<text y="48">⊙</text>
+<text y="72">⟁</text>
+<text y="96">θ</text>
+<text y="120">サ</text>
+<text y="144">ロ</text>
+<text y="168">∵</text>
+<text y="192">╫</text>
+<text y="216">⌬</text>
+<text y="240">Ψ</text>
+</g>
+
+<g class="rain c5" transform="translate(700,0)">
+<text y="0">⟣</text>
+<text y="24">↯</text>
+<text y="48">∂</text>
+<text y="72">⊚</text>
+<text y="96">♁</text>
+<text y="120">タ</text>
+<text y="144">ミ</text>
+<text y="168">⧖</text>
+<text y="192">Σ</text>
+<text y="216">✺</text>
+<text y="240">∞</text>
+</g>
+
+</svg>
+
+
 
   <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
 
