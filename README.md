@@ -7,21 +7,14 @@
 
 # 👋 NoirW01F-D3v
 
-```text
-> Loaded... 
-> boot sequence initiated...
-> loading android toolchain...
-> mounting linux filesystem...
-> compiling...
-> Access granted.
-```
+
 I build most of my apps in Termux terminal 
 gradlew and the incorrect architecture 🤓🤣 
 
 
 ### Android Developer • Linux Enthusiast • Open Source Contributor • C.S. Open Studies. 
 
-*"We | Code"*
+*"I | Code"*
 
 </div>
 
