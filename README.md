@@ -1,32 +1,7 @@
 # github.com-NoirW01F-D3v-NoirW01F-D3v
 whoami
 
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:
+  
+<img src="https://readme-jokes.vercel.app/api?theme=matrix&hideBorder" alt="Jokes Card" />
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
