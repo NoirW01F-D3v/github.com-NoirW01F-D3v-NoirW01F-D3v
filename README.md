@@ -1,1 +1,1 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+<img src="./developer_terminal.svg" alt="Developer Terminal" width="900">
