@@ -5,11 +5,14 @@
 
 <div align="center">
 
-# 👋 NoirW01F-D3v
+#NoirW01F-D3v
 
 👋 Hey, I'm Noir
 
-I'm a builder who enjoys turning strange ideas into working software. I spend most of my time experimenting with Android, Linux, Termux, automation, and low-level programming while constantly learning new languages and technologies. I believe every project teaches something, and every bug is just another puzzle waiting to be solved. If it can be optimized, automated, or rebuilt from scratch, I'm probably already working on it.
+I'm a programmer and engineer with no formal schooling or education. 
+I like turning strange ideas into working software.
+I spend most of my time experimenting with Android, Linux, Termux, automation, and low-level programming while constantly learning new languages and technologies. I believe every project teaches something, and every bug is just another puzzle waiting to be solved if you can pick the right pieces, yeah 👍🏼 And ofcourse if it can be optimized, automated, or rebuilt from scratch, 
+
 Building most of my apps in Termux terminal 
 gradle and with the incorrect architecture 🤓🤣 
 
@@ -24,17 +27,15 @@ gradle and with the incorrect architecture 🤓🤣
 
 ## 💻 About Me
 
-```bash
 $ whoami
 
-Name      :: NoirW01F-D3v
+Name      :: 
 Focus     :: Android Development
 OS        :: Linux
 Languages :: Java, Python, C, Bash, SQL, C
 Interests :: Android Internals, Automation,
                System Programming, Open Source
 Status    :: Always Busy...
-```
 
 
 ## 💬 Random Quote
