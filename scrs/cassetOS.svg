@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+
+<defs>
+
+<style>
+
+body{}
+
+.text{
+fill:#d8ffff;
+font-family:monospace;
+}
+
+.small{
+font-size:16px;
+}
+
+.title{
+font-size:32px;
+font-weight:bold;
+}
+
+.window{
+fill:#06121d;
+stroke:#00eaff;
+stroke-width:2;
+rx:15;
+}
+
+.button{
+fill:#08283b;
+stroke:#00eaff;
+stroke-width:2;
+rx:10;
+}
+
+.glow{
+filter:url(#glow);
+}
+
+</style>
+
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+
+<linearGradient id="bg" x2="0" y2="1">
+<stop stop-color="#010409"/>
+<stop offset="1" stop-color="#002033"/>
+</linearGradient>
+
+
+<radialGradient id="core">
+<stop stop-color="#ffffff"/>
+<stop offset=".3" stop-color="#00ffff"/>
+<stop offset="1" stop-color="#003344"/>
+</radialGradient>
+
+
+</defs>
+
+
+<!-- BACKGROUND -->
+
+<rect width="1000" height="650" fill="url(#bg)"/>
+
+
+<!-- BIOS SCREEN -->
+
+<g>
+
+<text x="50" y="70"
+class="text title">
+CASSET BIOS v0.001
+</text>
+
+
+<text x="50" y="130"
+class="text">
+Checking memory........ OK
+</text>
+
+<text x="50" y="160"
+class="text">
+Loading SYSTEM32....... OK
+</text>
+
+<text x="50" y="190"
+class="text">
+Mounting C:\............ OK
+</text>
+
+<text x="50" y="220"
+class="text">
+Starting Casset.OS.....
+</text>
+
+</g>
+
+
+<!-- MAIN DESKTOP -->
+
+<g transform="translate(0,260)">
+
+
+<!-- wallpaper core -->
+
+<circle cx="500"
+cy="150"
+r="90"
+fill="url(#core)"
+class="glow">
+
+<animate attributeName="r"
+values="90;100;90"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="445"
+y="160"
+font-size="50">
+⚙
+</text>
+
+
+<text x="410"
+y="280"
+class="text">
+CASSET CORE ONLINE
+</text>
+
+
+
+<!-- C DRIVE -->
+
+<rect x="40"
+y="40"
+width="250"
+height="220"
+class="window"/>
+
+
+<text x="60"
+y="80"
+class="text title">
+C:\
+</text>
+
+
+<text x="60"
+y="120"
+class="text">
+📁 Users
+</text>
+
+
+<text x="60"
+y="150"
+class="text">
+📁 Projects
+</text>
+
+
+<text x="60"
+y="180"
+class="text">
+📁 System
+</text>
+
+
+<text x="60"
+y="210"
+class="text">
+📄 README.txt
+</text>
+
+
+
+<!-- TERMINAL -->
+
+<rect x="710"
+y="40"
+width="250"
+height="220"
+class="window"/>
+
+
+<text x="730"
+y="80"
+class="text">
+C:\&gt;
+</text>
+
+
+<text x="730"
+y="115"
+class="text">
+dir
+</text>
+
+
+<text x="730"
+y="150"
+class="text">
+Projects
+</text>
+
+
+<text x="730"
+y="180"
+class="text">
+System
+</text>
+
+
+<text x="730"
+y="210"
+class="text">
+READY_
+</text>
+
+
+<!-- NOTEPAD -->
+
+<rect x="330"
+y="350"
+width="340"
+height="150"
+class="window"/>
+
+
+<text x="350"
+y="390"
+class="text title">
+README.txt
+</text>
+
+
+<text x="350"
+y="430"
+class="text">
+Welcome to Casset.OS
+</text>
+
+
+<text x="350"
+y="460"
+class="text">
+A computer simulated
+</text>
+
+
+<text x="350"
+y="490"
+class="text">
+inside one SVG file.
+</text>
+
+
+
+</g>
+
+
+<!-- TASK BAR -->
+
+<rect x="0"
+y="610"
+width="1000"
+height="40"
+fill="#020b12"
+stroke="#00eaff"/>
+
+
+<text x="30"
+y="638"
+class="text">
+START
+</text>
+
+
+<text x="820"
+y="638"
+class="text">
+C:\ ONLINE
+</text>
+
+
+<!-- SECRET -->
+
+<g opacity="0">
+
+<text x="100"
+y="100"
+class="text">
+
+CASSET SECRET:
+THE IMAGE IS THE MACHINE.
+
+</text>
+
+</g>
+
+
+</svg>
