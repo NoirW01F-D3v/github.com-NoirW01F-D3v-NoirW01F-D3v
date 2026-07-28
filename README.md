@@ -83,6 +83,7 @@ Status
 - Gradlew
 - Sdk
 - Ndk
+- Etc.... 
 
 <div align="center">
 
@@ -105,11 +106,7 @@ Status
 ## 🎯 Current Goals
 
 ```text
-□ Building open-source Android tools
-□ A Special Launcher - 👀
-□ Learning more Android internals
-□ Improving Linux automation
-□ Continue growing as a developer, programmer and more.... 
+□ CODE more.... 
 ```
 
 ---
