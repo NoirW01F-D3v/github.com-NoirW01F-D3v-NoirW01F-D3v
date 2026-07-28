@@ -9,13 +9,13 @@
 
 👋 Hey, I'm Noir
 
-I'm a programmer and engineer with no formal schooling or education. 
+I'm a selftaught programmer and engineer with no formal schooling or education. 
+
 I like turning strange ideas into working software.
-I spend most of my time experimenting with Android, Linux, Termux, automation, and low-level programming while constantly learning new languages and technologies. I believe every project teaches something, and every bug is just another puzzle waiting to be solved if you can pick the right pieces, yeah 👍🏼 And ofcourse if it can be optimized, automated, or rebuilt from scratch, 
+I spend most of my time experimenting with Android, Linux, Termux, automation, and low-level programming while constantly learning new languages and and and about the newest technologies. 
 
-Building most of my apps in Termux terminal 
-gradle and with the incorrect architecture 🤓🤣 
-
+I build on droid. 
+So much easier hands on without all the extras.
 
 ### Android Developer • Linux Enthusiast • 
  ### 
@@ -31,10 +31,10 @@ $ whoami
 
 Focus     :: Android Development
 OS        :: Linux
-Languages :: Java, Python, C, Bash, SQL, C
 Interests :: Android Internals, Automation,
                System Programming, Open Source
-Status    :: Always Busy...
+                 Your Code, My Code 🤓🤣
+Status  
 
 
 ## 💬 Random Quote
@@ -123,11 +123,11 @@ Status    :: Always Busy...
 ██║╚██╗██║██║   ██║██║██╔══██╗
 ██║ ╚████║╚██████╔╝██║██║  ██║
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═╝
-```W01F
+                      W01F
 
 **Thanks for visiting.**
 
 
 ⭐ Star a repository if you find it useful.
-Future Software In Progress 😁 
+ 
 </div>
