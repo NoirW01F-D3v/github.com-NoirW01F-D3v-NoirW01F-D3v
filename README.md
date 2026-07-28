@@ -7,12 +7,15 @@
 
 # 👋 NoirW01F-D3v
 
+👋 Hey, I'm Noir
 
+I'm a builder who enjoys turning strange ideas into working software. I spend most of my time experimenting with Android, Linux, Termux, automation, and low-level programming while constantly learning new languages and technologies. I believe every project teaches something, and every bug is just another puzzle waiting to be solved. If it can be optimized, automated, or rebuilt from scratch, I'm probably already working on it.
 Building most of my apps in Termux terminal 
 gradle and with the incorrect architecture 🤓🤣 
 
 
-### Android Developer • Linux Enthusiast • Open For Hire ### 
+### Android Developer • Linux Enthusiast • 
+ ### 
 
 *""*
 
