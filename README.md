@@ -29,7 +29,6 @@ gradle and with the incorrect architecture 🤓🤣
 
 $ whoami
 
-Name      :: 
 Focus     :: Android Development
 OS        :: Linux
 Languages :: Java, Python, C, Bash, SQL, C
