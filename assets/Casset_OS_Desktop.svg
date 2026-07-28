@@ -1,0 +1,448 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1400"
+height="850"
+viewBox="0 0 1400 850">
+
+<!--
+Casset.OS Desktop Edition
+Future Personal Computer Interface
+Single File SVG Simulation
+-->
+
+<defs>
+
+<style>
+
+.txt {
+font-family:"Segoe UI",Arial,sans-serif;
+fill:#f4f7ff;
+}
+
+.title {
+font-size:32px;
+font-weight:bold;
+}
+
+.label {
+font-size:20px;
+}
+
+.small {
+font-size:15px;
+fill:#b9c7dd;
+}
+
+.window {
+fill:#151a28;
+stroke:#6d7cff;
+stroke-width:2;
+}
+
+.glass {
+fill:#101522;
+fill-opacity:.85;
+}
+
+.button {
+fill:#20283c;
+stroke:#8996ff;
+stroke-width:1;
+}
+
+</style>
+
+
+<linearGradient id="wall"
+x2="0"
+y2="1">
+
+<stop stop-color="#10152a"/>
+<stop offset="1" stop-color="#202d4a"/>
+
+</linearGradient>
+
+
+<linearGradient id="bar">
+
+<stop stop-color="#171c2c"/>
+<stop offset="1" stop-color="#090c15"/>
+
+</linearGradient>
+
+
+</defs>
+
+
+<!-- DESKTOP -->
+
+<rect width="1400"
+height="850"
+fill="url(#wall)"/>
+
+
+
+<!-- WALLPAPER MARK -->
+
+<circle cx="700"
+cy="350"
+r="180"
+fill="#7788ff"
+opacity=".08"/>
+
+
+<text x="70"
+y="70"
+class="txt title">
+
+Casset.OS
+
+</text>
+
+
+<text x="70"
+y="105"
+class="small">
+
+Personal Computer Environment • 2060 Edition
+
+</text>
+
+
+
+<!-- DESKTOP ICONS -->
+
+
+<g>
+
+<rect x="80"
+y="170"
+width="90"
+height="90"
+rx="20"
+fill="#334cff"/>
+
+<text x="100"
+y="225"
+font-size="45">
+▣
+</text>
+
+<text x="70"
+y="290"
+class="txt">
+
+Files
+
+</text>
+
+
+</g>
+
+
+
+<g>
+
+<rect x="80"
+y="350"
+width="90"
+height="90"
+rx="20"
+fill="#36d9c8"/>
+
+<text x="103"
+y="405"
+font-size="45">
+◉
+</text>
+
+<text x="65"
+y="470"
+class="txt">
+
+CoreMind
+
+</text>
+
+</g>
+
+
+
+<g>
+
+<rect x="80"
+y="530"
+width="90"
+height="90"
+rx="20"
+fill="#ffcc66"/>
+
+<text x="102"
+y="585"
+font-size="45">
+⚙
+</text>
+
+<text x="75"
+y="650"
+class="txt">
+
+Settings
+
+</text>
+
+</g>
+
+
+
+
+<!-- FILE WINDOW -->
+
+
+<rect x="300"
+y="160"
+width="480"
+height="330"
+rx="20"
+class="window"/>
+
+
+<rect x="300"
+y="160"
+width="480"
+height="55"
+rx="20"
+fill="#222b42"/>
+
+
+<text x="330"
+y="200"
+class="txt label">
+
+Files.capp
+
+</text>
+
+
+<circle cx="740"
+cy="188"
+r="10"
+fill="#ff6677"/>
+
+<circle cx="705"
+cy="188"
+r="10"
+fill="#ffcc66"/>
+
+
+
+<text x="340"
+y="270"
+class="txt">
+
+C:\
+
+</text>
+
+
+<text x="360"
+y="320"
+class="small">
+
+📁 Projects
+
+</text>
+
+
+<text x="360"
+y="360"
+class="small">
+
+📁 Casset.OS
+
+</text>
+
+
+<text x="360"
+y="400"
+class="small">
+
+📄 README.md
+
+</text>
+
+
+
+<!-- CORE WINDOW -->
+
+
+<rect x="850"
+y="160"
+width="420"
+height="330"
+rx="20"
+class="window"/>
+
+
+<rect x="850"
+y="160"
+width="420"
+height="55"
+rx="20"
+fill="#222b42"/>
+
+
+<text x="880"
+y="200"
+class="txt label">
+
+CoreMind
+
+</text>
+
+
+<circle cx="1060"
+cy="300"
+r="70"
+fill="#36d9c8"
+opacity=".8"/>
+
+
+<text x="1035"
+y="315"
+font-size="45">
+
+◉
+
+</text>
+
+
+<text x="930"
+y="420"
+class="small">
+
+Assistant Ready
+
+</text>
+
+
+
+<!-- SETTINGS WINDOW -->
+
+
+<rect x="400"
+y="520"
+width="600"
+height="150"
+rx="20"
+class="window"/>
+
+
+<text x="440"
+y="575"
+class="txt label">
+
+System Settings
+
+</text>
+
+
+<text x="440"
+y="620"
+class="small">
+
+Appearance • Network • Storage • Security
+
+</text>
+
+
+
+<!-- TASKBAR -->
+
+
+<rect x="0"
+y="780"
+width="1400"
+height="70"
+fill="url(#bar)"/>
+
+
+
+<!-- START -->
+
+<rect x="35"
+y="795"
+width="120"
+height="40"
+rx="20"
+class="button"/>
+
+
+<text x="65"
+y="823"
+class="txt">
+
+◉ Start
+
+</text>
+
+
+
+<!-- SEARCH -->
+
+<rect x="190"
+y="795"
+width="260"
+height="40"
+rx="20"
+class="button"/>
+
+
+<text x="220"
+y="823"
+class="small">
+
+Search Casset.OS
+
+</text>
+
+
+
+<text x="520"
+y="823"
+class="small">
+
+Apps
+
+</text>
+
+
+<text x="650"
+y="823"
+class="small">
+
+Projects
+
+</text>
+
+
+<text x="780"
+y="823"
+class="small">
+
+GitHub
+
+</text>
+
+
+
+<text x="1170"
+y="823"
+class="small">
+
+System Ready
+
+</text>
+
+
+
+</svg>
