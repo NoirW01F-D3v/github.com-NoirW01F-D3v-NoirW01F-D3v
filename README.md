@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="assets/bannerx.svg" alt="NoirW01F Banner" width="100%">
-</p>
-
 <h1 align="center">🐺 NoirW01F-D3v</h1>
 
 <p align="center">
