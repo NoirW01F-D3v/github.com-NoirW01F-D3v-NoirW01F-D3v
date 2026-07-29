@@ -11,11 +11,12 @@
 
 ---
 
-# 👋🤓 Welcome one and all, I'm Noir.
-Happy your here hope you
+# 👋🤓 Welcome All! 
+ I'm Noir.
+Happy your here, and hope you
 enjoy my future repositories. 
 
-About Muah: 
+About MeH: 
 
 I'm a self-taught developer who enjoys understanding how software works from the inside out.
 
@@ -38,13 +39,13 @@ Most of my projects are built directly from Android using Termux, Linux tools, G
 ——————————————————————
 Nostalgic thoughts...
 
-🏛️ FORTRAN (1957)
-Actually, FORTRAN came before BASIC (BASIC was 1964).
+BASIC (1964).
 Example:
 PROGRAM HELLO
 PRINT *, 'HELLO, WORLD'
 END
 
+FORTRAN (1954)
  Before... FORTRAN:
 
 ⚙️ Assembly Language (1940s–1950s)
@@ -91,6 +92,7 @@ arrays
 data structures
 functions
 Concepts we still use today.
+
 ———————————————————
 
 # 🛠️ My Tech Arsenal
