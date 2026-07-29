@@ -105,7 +105,7 @@ Concepts we still use today.
 
 ---
 
-#N# 📱 Android Development
+#R# 📱 Android Development
 
 ![Android](https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android)
@@ -123,7 +123,7 @@ Building with:
 
 ---
 
-#0# 🐧 Linux & Systems
+#E# 🐧 Linux & Systems
 
 ![Linux](https://img.shields.io/badge/Linux-Power_User-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnubash)
@@ -139,7 +139,7 @@ Working with:
 
 ---
 
-#i# 💻 Programming Languages
+#A# 💻 Programming Languages
 
 | Language | Used For |
 |---|---|
@@ -151,7 +151,7 @@ Working with:
 
 ---
 
-#r# 🔧 Developer Tools
+#D# 🔧 Developer Tools
 
 - Git
 - GitHub
