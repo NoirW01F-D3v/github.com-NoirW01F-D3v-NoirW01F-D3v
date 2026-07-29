@@ -13,7 +13,7 @@ Self-taught engineer building software from first principles. No formal CS. degr
 
 I specialize in turning unconventional ideas into working systems. 
 
-My focus is Android internals, Linux environments, and low-level automation—mostly built directly on-device where constraints breed creativity.
+My focus is Android internals, Linux environments, and lowlevel automation mostly built directly on-device where constraints breed creativity.
 
 #Android Developer • Linux Enthusiast • Systems Tinkerer • From 0 to Developing and More. 
 
