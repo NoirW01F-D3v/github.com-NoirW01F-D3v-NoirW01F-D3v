@@ -11,14 +11,15 @@
 
 ---
 
-# 👋🤓 Welcome one and all, I'm Noir
+# 👋🤓 Welcome one and all, I'm Noir.
+Happy your here hope you
+enjoy my future repositories. 
+
+About Muah: 
 
 I'm a self-taught developer who enjoys understanding how software works from the inside out.
 
-Most of my projects are built directly from Android using **Termux**, Linux tools, Git, Gradle, and a lot of experimentation.
-
-I believe the best way to learn is to build real projects, break them, fix them, and share what I learn with others and friends. 
-
+Most of my projects are built directly from Android using Termux, Linux tools, Git, Gradle, and a lot of components.
 ---
 
 # 🚀 Current Interests
@@ -32,22 +33,64 @@ I believe the best way to learn is to build real projects, break them, fix them,
 - 🔧 Git & GitHub
 - 🌍 Open Source
 - 🚀 Building tools people can learn from
-- 👔 Cyber Security Studies. 
-
+- 👔 Cyber Security Studies
+- 🤖 Robots, Droids. 
 ——————————————————————
 Nostalgic thoughts...
 
-1940s  Machine Code
-   ↓
-1942  Plankalkül
-   ↓
-1940s-50s Assembly
-   ↓
-1957  FORTRAN
-   ↓
-1959  COBOL
-   ↓
-1964  BASIC
+🏛️ FORTRAN (1957)
+Actually, FORTRAN came before BASIC (BASIC was 1964).
+Example:
+PROGRAM HELLO
+PRINT *, 'HELLO, WORLD'
+END
+
+ Before... FORTRAN:
+
+⚙️ Assembly Language (1940s–1950s)
+Early computers were programmed with machine instructions or assembly. Example 
+
+(IBM 701-style concepts):
+LDA VALUE
+ADD NUMBER
+STA RESULT
+
+Meaning:
+LDA → Load a value
+ADD → Add something
+STA → Store the result
+___________________________________
+Before assembly, programmers used:
+
+🧮 Machine Code (1940s)
+
+Raw binary instructions:
+00101010 00001111
+10110000 00000001
+11100010 00000100
+
+Humans had to write the actual 
+numbers the computer understood. 
+___________________________________
+
+Oh and one of the of
+ the earliest programming languages was:
+
+📝 Plankalkül (1942–1945)
+
+Created by Konrad Zuse for early computers.
+ It was designed before FORTRAN, but it
+ wasn't widely implemented at the time.
+
+Example styles.
+(modernized notation):
+A + B → C
+It had ideas like:
+variables
+arrays
+data structures
+functions
+Concepts we still use today.
 ———————————————————
 
 # 🛠️ My Tech Arsenal
