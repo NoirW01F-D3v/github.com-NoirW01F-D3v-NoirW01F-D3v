@@ -6,39 +6,43 @@
 
 # NoirW01F-D3v
 
-👋 Hey, I'm **Noir**
+👋 Hey, I'm *Noir*
+All my files public are free to use.
 
-Self-taught engineer building software from first principles. No formal CS degree—just curiosity, documentation, and a lot of debug logs.
+Self-taught engineer building software from first principles. No formal CS. degree just curiosity, documentation, and a lot of debug logs.
 
-I specialize in turning unconventional ideas into working systems. My focus is Android internals, Linux environments, and low-level automation—mostly built directly on-device where constraints breed creativity.
+I specialize in turning unconventional ideas into working systems. 
 
-### Android Developer • Linux Enthusiast • Systems Tinkerer
+My focus is Android internals, Linux environments, and low-level automation—mostly built directly on-device where constraints breed creativity.
 
-*"Constraint is the mother of invention."*
+#Android Developer • Linux Enthusiast • Systems Tinkerer • From 0 to Developing and More. 
 
-Field	Values:
+T√E
+FU7ur3 
+I$ In
+Y0U4 
+H@n∆s......
+
+s.t. Field	Values:
 
 Focus	Android Development & System Programming	
 Environment	Linux / Termux / Bare Metal	
-Interests - 	Android Internals, Automation, Open Source, Low-Level Optimization, OutTheBox
-Philosophy	Ship fast, break things, learn faster	
+Interests - 	Android Internals, Automation, Open Source, Low-Level Optimization, OutOfTheBox,
+Philosophy	Ship fast, break things, fix them again.
 
-
----
-
-## 💻 About Me
-
-```bash
-$ whoami
+$ whoami - AIAJABITE
 
 💬 Random Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&type=horizontal"/>
 </div>
+
 ⚡ Tech Arsenal
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,c,bash,linux,git,github,vscode,idea,gradle,sqlite&perline=6"/>
 </div>
+
+
 📱 Android Ecosystem
 https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white
 https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white
@@ -67,110 +71,137 @@ Terminal-first workflows
 Build system optimization (Gradle, Make)
 📚 Learning Arsenal
 A curated index of free, high-quality resources for programmers, coders, and security-minded builders.
+
 📱 Android & Kotlin
-Sheets
-Resource
-Description
+
 Android Basics with Compose
 Google's official 100+ hour course. Zero experience required. Kotlin, Jetpack Compose, Material Design.
 Android Developer Docs
 The source of truth for every API, component, and best practice.
 Kotlin Core (JetBrains Academy)
+
 Project-based Kotlin from the creators of the language.
 Kotlin Docs
 Official reference and getting-started guides.
+
+
 🐚 Bash & Linux
 Sheets
-Resource
+Resources
 Description
 Linux Journey
 Interactive, beginner-friendly Linux fundamentals.
 OverTheWire: Bandit
 Learn Bash and command-line security through a game.
+
 Bash Beginners Guide (TLDP)
 Classic text-based deep dive into shell scripting.
 ExplainShell
 Paste any command to see exactly what every flag does.
+
 ☕ Java
-Sheets
-Resource
-Description
+
 Oracle Java Tutorials
 Official, comprehensive, and always current.
 Java Programming MOOC (Helsinki)
 University-grade Java with hundreds of auto-graded exercises.
 JetBrains Academy Java Developer
 Project-based Java track in a real IDE.
+
 ⚡ JavaScript
-Sheets
-Resource
-Description
+
 javascript.info
 The most thorough free JS reference online. Modern syntax, deep explanations.
+
 MDN JavaScript Guide
 Mozilla's official guide—authoritative and beginner-friendly.
+
+
 freeCodeCamp JS Algorithms & DS
 Free certification with five required portfolio projects.
+
 The Odin Project
 Full-stack JS curriculum. Open-source, project-heavy, zero cost.
+
+
 🐍 Python
-Sheets
-Resource
-Description
+
 Python Official Tutorial
 Straight from the Python Software Foundation.
 Harvard CS50P
-Harvard's intro to programming with Python. Academic rigor, free.
+Harvard's intro to programming with Python.
+
+Academic rigor, free.
 Automate the Boring Stuff
 Practical automation scripting—free to read online.
+
+
 freeCodeCamp Scientific Computing
 Free certification covering data structures, OOP, and algorithms.
+
+
 🔒 Cybersecurity & Ethical Hacking
-Sheets
-Resource
-Description
+Sheets && Resources
+
 Intro to Ethical Hacking (Great Learning)
 Foundations of white-hat hacking, MITRE ATT&CK, and social engineering.
+
+
 OverTheWire Wargames
 Security concepts taught through progressive CTF-style challenges.
+
+
 TryHackMe
 Guided cybersecurity labs. Strong free tier for beginners.
+
+
 Hack The Box Academy
 Hands-on pentesting and defensive security training.
+
+
 OWASP Testing Guide
 The industry standard for web application security testing.
+
+
 🗄️ SQL & Databases
-Sheets
-Resource
-Description
+Sheets Resources and More.
+
 SQLBolt
-Interactive lessons in the browser. No signup required.
+
+Interactive lessons in the browser. 
+
+No signup required.
 Khan Academy SQL
 Gentle intro with in-browser challenges.
+
 Kaggle Intro to SQL
 Real datasets in BigQuery. Free completion certificate.
+
 ⚙️ C & Systems Programming
-Sheets
-Resource
-Description
+
 learn-c.org
 Interactive C tutorials with in-browser exercises.
 Beej's Guide to C
 Deep, casual, and thorough guide to modern C.
+
 Beej's Guide to Network Programming
 The classic resource for socket programming in C.
+
 Harvard CS50x
 Full intro to computer science—C, memory, algorithms, and more.
 
 Resource	Description	
 [Pro Git Book](https://git-scm.com/book/en/v2)	The definitive free book on Git.	
+
 [Learn Git Branching](https://learngitbranching.js.org/)	Visual, interactive branching and rebasing sandbox.	
+
 [GitHub Skills](https://skills.github.com/)	Project-based courses inside real GitHub repos.	
 [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)	Clear explanations with excellent diagrams.	
 
 Resource	Description	
 [Docker Getting Started](https://docs.docker.com/get-started/)	Official Docker docs with hands-on guides.	
 [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)	Official interactive K8s tutorials.	
+
 [KodeKloud Free Labs](https://kodekloud.com/free-labs/)	Browser-based labs for Docker, K8s, and Linux. No setup.	
 
 [Play with Docker](https://labs.play-with-docker.com/)	Free sandbox to experiment with Docker in the cloud.	
