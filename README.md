@@ -23,14 +23,12 @@ I$ In
 Y0U4 
 H@n∆s......
 
-s.t. Field	Values:
-
-Focus	Android Development & System Programming	
 Environment	Linux / Termux / Bare Metal	
 Interests - 	Android Internals, Automation, Open Source, Low-Level Optimization, OutOfTheBox,
 Philosophy	Ship fast, break things, fix them again.
 
 $ whoami - AIAJABITE
+All In All Just A Brick In The Wall. 
 
 💬 Random Quote
 <div align="center">
@@ -44,23 +42,39 @@ $ whoami - AIAJABITE
 
 
 📱 Android Ecosystem
-https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white
-https://img.shields.io/badge/Android%20SDK-34A853?style=for-the-badge
-https://img.shields.io/badge/Android%20NDK-34A853?style=for-the-badge
-https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle
+SRC=https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white
+
+src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
+
+src="https://img.shields.io/badge/Android%20SDK-34A853?style=for-the-badge"
+
+SRC="https://img.shields.io/badge/Android%20NDK-34A853?style=for-the-badge"
+
+src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle"
+
 🔧 Modding & Tooling
-https://img.shields.io/badge/ADB-success?style=for-the-badge
-https://img.shields.io/badge/Fastboot-blue?style=for-the-badge
-https://img.shields.io/badge/Magisk-00AEEF?style=for-the-badge
-https://img.shields.io/badge/Bootloader%20Unlocking-orange?style=for-the-badge
-https://img.shields.io/badge/Custom_ROMs-purple?style=for-the-badge
-https://img.shields.io/badge/TWRP%20Recovery-red?style=for-the-badge
+
+src="https://img.shields.io/badge/ADB-success?style=for-the-badge"
+
+src="https://img.shields.io/badge/Fastboot-blue?style=for-the-badge"
+
+src="https://img.shields.io/badge/Magisk-00AEEF?style=for-the-badge"
+
+src="https://img.shields.io/badge/Bootloader%20Unlocking-orange?style=for-the-badge"
+
+src"https://img.shields.io/badge/Custom_ROMs-purple?style=for-the-badge"
+
+src="https://img.shields.io/badge/TWRP%20Recovery-red?style=for-the-badge"
+
 🐧 Linux & Systems
-https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
-https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite
+src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"
+
+
+src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=SSH"
+
+src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+
+src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"
  
 Shell scripting & process automation
  
