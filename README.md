@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/bannerx.svg" />
-</p>
 
 <p align="center">
   <img src="assets/bannerx.svg" alt="NoirW01F Banner" width="100%">
